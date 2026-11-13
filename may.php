@@ -4,5 +4,5 @@
   Objetivos:
   1. Qué es el control de versiones y para qué sirve Git.
   2. Cómo usar GitHub Desktop
-  Luisiito 
+  Maylencita hot
 </html>
